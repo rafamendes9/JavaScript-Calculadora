@@ -11,7 +11,7 @@ const valorNumber = Number(valorString);
 console.log(typeof valorNumber); // "number"
 
 //
-// D: Curso Desafios de JavaScript
+// Curso Desafios de JavaScript
 //
 
 // Exercício 3: Manipulação de Strings

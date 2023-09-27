@@ -37,7 +37,7 @@ console.log(link.hasAttribute("target"));
 link.removeAttribute("target");
 
 //
-// D: Curso de JavaScript
+//  Curso de JavaScript
 //
 
 // 4.4 Manipulando classes CSS
